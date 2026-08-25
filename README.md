@@ -20,7 +20,6 @@
   />
 </picture>
 
-</div>
 
 <h3>Building intelligent systems for real-world impact.</h3>
 
@@ -46,6 +45,6 @@ AI/ML · Computer Vision · Robotics · Edge AI · Full-Stack Development
 
 ---
 
-## 🧭 About Me
+## About Me!
 
 I'm a Computer Science undergraduate specializing in AI at Khalifa University, based in Abu Dhabi. I build intelligent, user-focused systems across full-stack development, computer vision, robotics, edge AI, and game development.
