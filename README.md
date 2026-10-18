@@ -32,9 +32,9 @@ AI/ML · Computer Vision · Robotics · Edge AI · Full-Stack Development
 <a href="https://www.linkedin.com/in/tehsin-shaik-691390247/">
   <img src="https://img.shields.io/badge/LinkedIn-Tehsin%20Shaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://tehsinshaik.vercel.app">
+<!--<a href="https://tehsinshaik.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+</a>--!>
 
 <br/><br/>
 
